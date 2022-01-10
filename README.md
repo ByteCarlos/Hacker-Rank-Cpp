@@ -1,3 +1,2 @@
-# Hacker-Rank
-Desafios do Hacker Rank
-
+# Hacker Rank
+Hacker Rank Challenges
